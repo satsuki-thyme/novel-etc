@@ -1,13 +1,18 @@
 - scene: 
   descriptor: 
-
   gist:
+    !
+
+  reason for scene:
+    !
+
+  interest:
     !
 
   matters of desire:
     - dn: 
       desire: 
-      opponent:
+      conflict:
         - dn: 
           desire: 
       risk: 
@@ -17,9 +22,6 @@
     - dn: 
       value: 
       change: .  .
-
-  intarest:
-    !
 
   unpredictability of the end:
     !

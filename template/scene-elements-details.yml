@@ -10,7 +10,7 @@
 
     - beat:
       descriptor: 
-      unexpectedness: 
+      interest: 
       turning point: true/false
       foreshadowing:
         - item:
@@ -26,6 +26,7 @@
           - dn: 
             contents: 
             activity: 
+            expectation: 
         #- narration in the beat:
         #  contents:
         #    !

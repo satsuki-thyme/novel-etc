@@ -10,19 +10,20 @@
     - dn: 
       description: 
 
-  matters of desire:
-    - dn: 
-      desire: 
-      opponent:
-        dn: 
+  configuration:
+    matters of desire:
+      - dn: 
         desire: 
-      risk: 
-      results: 
+        opponent:
+          dn: 
+          desire: 
+        risk: 
+        results: 
 
-  value change:
-    - dn: 
-      item: 
-      change: 
+    value change:
+      - dn: 
+        item: 
+        change: 
 
   status:
     highlights:
