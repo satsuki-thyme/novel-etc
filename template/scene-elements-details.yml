@@ -1,42 +1,49 @@
     - narration:
       descriptor: 
-      foreshadowing:
+      relationship:
         - item:
           send: 
-          receive: # およその場合は次のシーン要素の意外性と同じになる
+          receive: # およその場合は次のシーン要素のreactionと同じになる
 
       contents:
-        !
+        - item:
+          tone: 
+          thing: 
 
     - beat:
       descriptor: 
       interest: 
       turning point: true/false
-      foreshadowing:
+      relationship:
         - item:
           send: 
-          receive: # およその場合は次のシーン要素の意外性と同じになる
+          receive: # およその場合は次のシーン要素のreactionと同じになる
 
       performance:
-        #- pre-action:
-        #  - dn: 
-        #    contents: 
-        #    activity: 
+        - pre-action:
+          - dn: 
+            tone: 
+            contents: 
+            activity: 
         - action:
           - dn: 
+            tone: 
             contents: 
             activity: 
             expectation: 
-        #- narration in the beat:
-        #  contents:
-        #    !
+        - narration in beat:
+          - item:
+            tone: 
+            thing: 
         - reaction:
           - dn: 
+            tone: 
             contents: 
             activity: 
-        #- post-reaction:
-        #  - dn: 
-        #    contents: 
-        #    activity: 
+        - post-reaction:
+          - dn: 
+            tone: 
+            contents: 
+            activity: 
 
 
