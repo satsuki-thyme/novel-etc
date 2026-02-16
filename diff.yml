@@ -1,0 +1,137 @@
+- op: 65
+  contents:
+
+    - item: 身体強化
+      contents:
+
+        - item: 有無
+          contents:
+            true
+
+        - item: エフェクト
+          contents:
+            !
+
+    - item: 魔法
+      contents:
+        !
+
+    - item: 魔法行使時の魔法陣
+      contents:
+
+        - item: 有無
+          contents:
+            !
+
+        - item: エフェクト
+          contents:
+            !
+
+    - item: 神
+      contents:
+        多神
+        時代による個々の神の認識され方に変化がある
+
+- op: 72
+  contents:
+
+    - item: 身体強化
+      contents:
+
+        - item: 有無
+          contents:
+            true
+
+        - item: エフェクト
+          contents:
+            余剰魔力が漏れ出て魔力光となり体が発光する
+            体の魔力への適応力が高いと発光しない
+
+    - item: 魔法
+      contents:
+        権能魔法は存在しない
+
+    - item: 魔法行使時の魔法陣
+      contents:
+
+        - item: 有無
+          contents:
+            !
+
+        - item: エフェクト
+          contents:
+            !
+
+    - item: 神
+      contents:
+        単に超常の存在であるとか、土地神のような雰囲気
+        多神教ではない
+
+
+- op: 76
+  contents:
+
+    - item: 身体強化
+      contents:
+
+        - item: 有無
+          contents:
+            !
+
+        - item: エフェクト
+          contents:
+            !
+
+    - item: 魔法
+      contents:
+        !
+
+    - item: 魔法行使時の魔法陣
+      contents:
+
+        - item: 有無
+          contents:
+            !
+
+        - item: エフェクト
+          contents:
+            !
+
+    - item: 神
+      contents:
+        !
+
+- op: 
+  contents:
+
+    - item: 身体強化
+      contents:
+
+        - item: 有無
+          contents:
+            false
+
+        - item: エフェクト
+          contents:
+            false
+
+    - item: 魔法
+      contents:
+        魔素器官
+        精霊魔法
+
+    - item: 魔法行使時の魔法陣
+      contents:
+
+        - item: 有無
+          contents:
+            false
+
+        - item: エフェクト
+          contents:
+            false
+
+    - item: 神
+      contents:
+        !
+
