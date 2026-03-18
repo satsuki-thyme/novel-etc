@@ -1,0 +1,427 @@
+[
+  {
+    "dn": "..",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "../etc/configuration-setting-method",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "../etc/plot-creation-method",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "../etc/research-on-novel-creating",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "seed",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "story-world",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "opss",
+    "active": true,
+    "publish": true
+  },
+  {
+    "dn": "../writing",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "tmp",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op1",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op2",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op3",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op4",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op5",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op6",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op7",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op8",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op9",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op10",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op11",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op12",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op13",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op14",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op15",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op16",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op17",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op18",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op19",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op20",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op21",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op22",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op23",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op24",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op25",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op26",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op27",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op28",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op29",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op30",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op31",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op32",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op33",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op34",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op35",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op36",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op37",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op38",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op39",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op40",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op41",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op42",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op43",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op44",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op45",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op46",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op47",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op48",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op49",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op50",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op51",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op52",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op53",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op54",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op55",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op56",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op57",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op58",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op59",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op60",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op61",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op62",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op63",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op64",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op65",
+    "active": true,
+    "publish": false
+  },
+  {
+    "dn": "op66",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op67",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op68",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op69",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op70",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op71",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op72",
+    "active": true,
+    "publish": true
+  },
+  {
+    "dn": "op73",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op74",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op75",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "op76",
+    "active": true,
+    "publish": true
+  }
+]
