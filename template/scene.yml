@@ -1,13 +1,13 @@
 - scene: 
   descriptor: 
   gist:
-    !
+    - gis-item: 
 
   reason for scene:
     !
 
   interest:
-    !
+    - int-item: 
 
   matters of desire:
     - dn: 
