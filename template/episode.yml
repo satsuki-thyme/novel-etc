@@ -1,14 +1,6 @@
 - episode: 
 
-  summary:
-    - dn: logline
-      description: 
-
-    - dn: overall
-      description: 
-
-    - dn: 
-      description: 
+  summary: 
 
   configuration:
     matters of desire:
@@ -22,8 +14,8 @@
 
     value change:
       - dn: 
-        item: 
-        change: 
+        val-item: 
+        change: . .
 
   status:
     highlights:
@@ -35,14 +27,14 @@
       end: 
       notes: 
     location:
-      - item: 
+      - loc-item: 
         tone: 
     destination:
       start: 
       middle: 
       end: 
-      top: 
-    notes:
+      main: 
+    status notes:
       !
 
   episode elements:

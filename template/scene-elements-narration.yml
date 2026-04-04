@@ -1,0 +1,10 @@
+    - narration:
+      descriptor: 
+      relationship:
+        - item:
+          send: 
+          receive: # およその場合は次のシーン要素のreactionと同じになる
+
+      contents:
+        !
+

@@ -1,15 +1,3 @@
-    - narration:
-      descriptor: 
-      relationship:
-        - item:
-          send: 
-          receive: # およその場合は次のシーン要素のreactionと同じになる
-
-      contents:
-        - item:
-          tone: 
-          thing: 
-
     - beat:
       descriptor: 
       interest: 
@@ -32,9 +20,7 @@
             activity: 
             expectation: 
         - narration in beat:
-          - item:
-            tone: 
-            thing: 
+            !
         - reaction:
           - dn: 
             tone: 
