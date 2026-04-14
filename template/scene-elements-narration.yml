@@ -1,10 +1,11 @@
-    - narration:
-      descriptor: 
-      relationship:
-        - item:
-          send: 
-          receive: # およその場合は次のシーン要素のreactionと同じになる
+    - beat group:
+      bg-descriptor:
 
-      contents:
-        !
+      bg-contents:
+
+        - narration:
+          nr-descriptor: 
+
+          nr-contents:
+            - 
 

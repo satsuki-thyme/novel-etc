@@ -1,35 +1,32 @@
-    - beat:
-      descriptor: 
-      interest: 
-      turning point: true/false
-      relationship:
-        - item:
-          send: 
-          receive: # およその場合は次のシーン要素のreactionと同じになる
+    - beat group:
+      bg-descriptor: 
 
-      performance:
-        - pre-action:
-          - dn: 
-            tone: 
-            contents: 
-            activity: 
-        - action:
-          - dn: 
-            tone: 
-            contents: 
-            activity: 
-            expectation: 
-        - narration in beat:
-            !
-        - reaction:
-          - dn: 
-            tone: 
-            contents: 
-            activity: 
-        - post-reaction:
-          - dn: 
-            tone: 
-            contents: 
-            activity: 
+      bg-contents:
+
+        - beat:
+          bt-descriptor: 
+
+          performance:
+            - pre-action:
+              - pf-dn: 
+                tone: 
+                activity: 
+
+            - action:
+              - pf-dn: 
+                tone: 
+                activity: 
+
+            - narration in beat:
+                - 
+            - reaction:
+              - pf-dn: 
+                tone: 
+                activity: 
+
+            - post-reaction:
+              - pf-dn: 
+                tone: 
+                activity: 
 
 

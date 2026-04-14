@@ -17,25 +17,8 @@
         val-item: 
         change: . .
 
-  status:
-    highlights:
-      battle: 
-      erros: 
-    time:
-      elapsed days: 
-      start: 
-      end: 
-      notes: 
-    location:
-      - loc-item: 
-        tone: 
-    destination:
-      start: 
-      middle: 
-      end: 
-      main: 
-    status notes:
-      !
+  notes:
+    !
 
   episode elements:
 
