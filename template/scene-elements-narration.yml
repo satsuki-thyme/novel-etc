@@ -1,11 +1,10 @@
-    - beat group:
-      bg-descriptor:
+    - beat group: 
 
-      bg-contents:
+      beat contents:
 
         - narration:
-          nr-descriptor: 
+          beat descriptor: 
 
-          nr-contents:
+          beat performance:
             - 
 

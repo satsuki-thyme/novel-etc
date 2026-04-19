@@ -1,32 +1,31 @@
-    - beat group:
-      bg-descriptor: 
+    - beat group: 
 
-      bg-contents:
+      beat contents:
 
         - beat:
-          bt-descriptor: 
+          beat descriptor: 
 
-          performance:
-            - pre-action:
-              - pf-dn: 
-                tone: 
-                activity: 
+          beat performance:
+            - beat pre-action:
+              - beat dn: 
+                beat tone: 
+                beat activity: 
 
-            - action:
-              - pf-dn: 
-                tone: 
-                activity: 
+            - beat action:
+              - beat dn: 
+                beat tone: 
+                beat activity: 
 
-            - narration in beat:
+            - beat narration in beat:
                 - 
-            - reaction:
-              - pf-dn: 
-                tone: 
-                activity: 
+            - beat reaction:
+              - beat dn: 
+                beat tone: 
+                beat activity: 
 
-            - post-reaction:
-              - pf-dn: 
-                tone: 
-                activity: 
+            - beat post-reaction:
+              - beat dn: 
+                beat tone: 
+                beat activity: 
 
 

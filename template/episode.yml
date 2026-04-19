@@ -1,28 +1,27 @@
 - episode: 
 
-  summary: 
+  episode summary: 
 
-  configuration:
-    matters of desire:
-      - dn: 
-        desire: 
-        opponent:
-          dn: 
-          desire: 
-        risk: 
-        results: 
+  episode matters of desire:
+    - episode dn: 
+      episode desire: 
+      episode opponent:
+        episode dn: 
+        episode desire: 
+      episode risk: 
+      episode results: 
 
-    value change:
-      - dn: 
-        val-item: 
-        change: . .
+  episode value change:
+    - episode dn: 
+      episode val-item: 
+      episode change: . .
 
-  notes:
-    !
+  episode notes:
+    - 
 
-  episode elements:
+  episode episode elements:
 
-  assembly:
+  episode assembly:
 
 
 
