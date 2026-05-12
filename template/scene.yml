@@ -10,17 +10,17 @@
     - scene interest item: 
 
   scene matters of desire:
-    - scene dn: 
+    - scene desire dn: 
       scene desire: 
       scene conflict:
-        - scene dn: 
-          scene desire: 
+        - scene conflict dn: 
+          scene conflict desire: 
       scene risk: 
       scene results: 
       scene gap: 
 
   scene value change:
-    - scene dn: 
+    - scene value dn: 
       scene value: 
       scene change: . 
 
