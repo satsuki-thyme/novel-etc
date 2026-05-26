@@ -1,23 +1,24 @@
 - episode: 
 
   episode summary: 
+  episode configuration:
 
-  episode matters of desire:
-    - episode dn: 
-      episode desire: 
-      episode opponent:
-        episode dn: 
+    episode matters of desire:
+      - episode dn: 
         episode desire: 
-      episode risk: 
-      episode results: 
+        episode opponent:
+          episode dn: 
+          episode desire: 
+        episode risk: 
+        episode results: 
 
-  episode value change:
-    - episode dn: 
-      episode val-item: 
-      episode change: .
+    episode value change:
+      - episode dn: 
+        episode val-item: 
+        episode change: .
 
-  episode notes:
-    - 
+    episode notes:
+      - 
 
   episode episode elements:
 

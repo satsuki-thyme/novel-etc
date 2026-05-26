@@ -1,32 +1,34 @@
 - scene: 
   scene descriptor: 
-  scene gist:
-    - scene gist item: 
+  scene configuration:
 
-  scene meaning of the scene:
-    - scene meaning item: 
+    scene gist:
+      - scene gist item: 
 
-  scene interest:
-    - scene interest item: 
+    scene meaning of the scene:
+      - scene meaning item: 
 
-  scene matters of desire:
-    - scene desire dn: 
-      scene desire: 
-      scene conflict:
-        - scene conflict dn: 
-          scene conflict desire: 
-      scene risk: 
-      scene results: 
-      scene gap: 
+    scene interest:
+      - scene interest item: 
 
-  scene value change:
-    - scene value dn: 
-      scene value: 
-      scene change: .
+    scene matters of desire:
+      - scene desire dn: 
+        scene desire: 
+        scene conflict:
+          - scene conflict dn: 
+            scene conflict desire: 
+        scene risk: 
+        scene results: 
+        scene gap: 
+
+    scene value change:
+      - scene value dn: 
+        scene value: 
+        scene change: .
 
 
-  scene unpredictability of the end:
-    - scene unpredictability item: 
+    scene unpredictability of the end:
+      - scene unpredictability item: 
 
   scene elements:
 
