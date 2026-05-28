@@ -8,8 +8,8 @@
 ### テンプレート
 
 - template/episode.yml:                  エピソード
-- template/scene-elements-beat.yml:      シーン要素詳細
-- template/scene-elements-narration.yml: シーン要素詳細
+- template/scene-elements-beat.yml:      シーン要素詳細 ビート
+- template/scene-elements-narration.yml: シーン要素詳細 ナレーション
 - template/scene.yml:                    シーン
 
 ### VS Code settings.json
