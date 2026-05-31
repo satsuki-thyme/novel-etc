@@ -2,7 +2,7 @@
 
 ## 目次
 
-- important-notes.md:        重要なノート
+- root-theme.yml:            ルートテーマ
 - subdivision-of-writing.md: 執筆作業の細分化
 
 ### テンプレート
