@@ -1,8 +1,8 @@
-    - beat group: 
+    - 🟧 beat group: 
 
       beat contents:
 
-        - beat:
+        - 🟨 beat:
           beat descriptor: 
 
           beat performance:
