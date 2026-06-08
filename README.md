@@ -16,3 +16,7 @@
 
 - settings.json/highlight/new-TODO-Highlight.json: 拡張機能 TODO Hihghlight
 - settings.json/highlight/original-Highlight.json: 拡張機能 Highlight
+
+### 思考ノート
+
+- thinking-notes/thi-001.md: 掌編企画
