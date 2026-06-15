@@ -3,12 +3,8 @@
 
         - 🟨 beat:
           beat descriptor: 
-          beat gist:
-            - beat gist item: 
-
-          beat configuration:
-
           beat performance:
+
             - beat pre-action:
               - beat dn: 
                 beat tone: 
@@ -31,5 +27,6 @@
               - beat dn: 
                 beat tone: 
                 beat activity: 
+
 
 
