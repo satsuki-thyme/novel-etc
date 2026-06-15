@@ -1,9 +1,9 @@
 - 🟥 scene: 
   scene descriptor: 
-  scene configuration:
+  scene gist:
+    - scene gist item: 
 
-    scene gist:
-      - scene gist item: 
+  scene configuration:
 
     scene meaning of the scene:
       - scene meaning item: 
@@ -25,6 +25,7 @@
       - scene value dn: 
         scene value: 
         scene change: .
+        scene value note: 
 
     scene unpredictability of the end:
       - scene unpredictability item: 

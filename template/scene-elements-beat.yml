@@ -3,10 +3,10 @@
 
         - 🟨 beat:
           beat descriptor: 
-          beat configuration:
+          beat gist:
+            - beat gist item: 
 
-            beat gist:
-              - beat gist item: 
+          beat configuration:
 
           beat performance:
             - beat pre-action:
