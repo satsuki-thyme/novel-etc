@@ -46,10 +46,10 @@ settings.json, ./story-world, ./plot-creation-method, ./configuration-setting-me
 
 検索: (?=- scene:|sn-descriptor|- beat:|- narration:|bt-descriptor|nr-descriptor)
 
-### 本文ガイド向け削除と置換
+### 本文執筆ガイド向け削除と置換
 
-検索削除
-/^ *- scene:[\s\S]*?(?=- beat group:)|((?<= *- beat group:.*\n)| *- beat:| *- narration:)[\s\S]*?beat performance:\n|^(?=.*:) *(- )?|^ *| *(?=- beat group:)/
+削除
+/^ *- 🟥 scene:[\s\S\n]*?(?=- 🟨 beat:|- 🟨 narration:)|(?<=- 🟨 beat:|- 🟨 narration:)[\s\S\n]*?beat performance:(\n(?! *- (?!beat (re|pre-|post-)?action)))*|^\n? *- beat (re|pre-|post-)?action:(\n(?! *- ))*|^(?<=\n\n)\n+|^ +/
 
-検索置換
+置換
 /^(?=- )|^(?=beat)/-----/
