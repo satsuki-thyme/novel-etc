@@ -20,8 +20,10 @@
 ### ノート
 
 - notes/not-001.md: 伏線の2段回収
+- notes/not-002.md: 物語に現れる演繹的な構造
 
 ### 思考ノート
 
 - thinking-notes/thi-001.md: 掌編企画
 - thinking-notes/thi-002.md: 伏線の2段回収
+- thinking-notes/thi-003.md: ストーリーテリングの演繹法
