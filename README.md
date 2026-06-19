@@ -17,6 +17,11 @@
 - settings.json/highlight/new-TODO-Highlight.json: 拡張機能 TODO Hihghlight
 - settings.json/highlight/original-Highlight.json: 拡張機能 Highlight
 
+### ノート
+
+- notes/not-001.md: 伏線の2段回収
+
 ### 思考ノート
 
 - thinking-notes/thi-001.md: 掌編企画
+- thinking-notes/thi-002.md: 伏線の2段回収
