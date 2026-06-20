@@ -2,8 +2,16 @@
 
 ## 目次
 
+### TLF
+
+- diff.yml:                  opによる世界観の差分
+- idealmd:                   アイデア
+- index.json:                opのインデックス
+- LICENSE:                   ライセンス
+- markup.json:               opの編集記号
 - root-theme.yml:            ルートテーマ
-- subdivision-of-writing.md: 執筆作業の細分化
+- serarch-string.md:         検索文字集
+
 
 ### テンプレート
 
@@ -27,3 +35,4 @@
 - thinking-notes/thi-001.md: 掌編企画
 - thinking-notes/thi-002.md: 伏線の2段回収
 - thinking-notes/thi-003.md: ストーリーテリングの演繹法
+- thinking-notes/thi-004.md: 執筆作業の細分化
