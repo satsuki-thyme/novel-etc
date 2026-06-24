@@ -9,6 +9,7 @@
 - index.json: ...... opのインデックス
 - LICENSE: ......... ライセンス
 - markup.json: ..... opの編集記号
+- MGMT.md: ......... 管理
 - root-theme.yml: .. ルートテーマ
 - serarch-string.md: 検索文字集
 
