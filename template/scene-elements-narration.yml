@@ -1,11 +1,20 @@
 
     - 🟧 beat group: 
-      beat contents:
+      beat group configuration:
+        beat group role: 
+        beat group expressive staging: 
 
-        - 🟨 narration:
-          beat descriptor: 
+      beat group contents:
+
+        - 🟨 beat: 
+          beat configuration:
+            beat role: 
+            beat literal meaning: 
+            beat expressive staging: 
+
           beat performance:
 
-            - 
+            beat narration:
+              - 
 
 

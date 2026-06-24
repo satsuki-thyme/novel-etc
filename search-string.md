@@ -5,7 +5,7 @@
 -------
 
 ``` glob
-settings.json, ./story-world, ./plot-creation-method, ./configuration-setting-method, ./research-on-novel-creating, ./workspace, ./novel-etc, thinking-notes, settings/history, archive
+settings.json, ./story-world, ./etc, thinking-notes, settings/history, archive
 ```
 
 ## チャプタープロット
@@ -56,25 +56,25 @@ settings.json, ./story-world, ./plot-creation-method, ./configuration-setting-me
 ## エピソードプロット
 ---------------------
 
-### シーン要素
+### シーン・クライマックス設定
 
 検索:
 ``` regex
-(?=- scene:|sn-descriptor|gis-item|int-item)
+(?=🟥|gist|climax)
 ```
 
-### ビート要素
+### ビート設定
 
 検索:
 ``` regex
-(?=- scene:|sn-descriptor|- beat:|- narration:|bt-descriptor|nr-descriptor)
+(?=🟥|gist|climax|elements|🟧|🟨)
 ```
 
 ### 本文執筆ガイド向け削除と置換
 
 削除
 ``` regex
-^ *- 🟥 scene:[\s\S\n]*?(?=- 🟨 beat:|- 🟨 narration:)|(?<=- 🟨 beat:|- 🟨 narration:)[\s\S\n]*?beat performance:(\n(?! *- (?!beat (re|pre-|post-)?action)))*|^\n? *- beat (re|pre-|post-)?action:(\n(?! *- ))*|^(?<=\n\n)\n+|^ +
+^ *- 🟥[\s\S\n]*?(?=- 🟨)|(?<=🟨)[\s\S\n]*?beat performance:(\n(?! *- (?!beat (re|pre-|post-)?action)))*|^\n? *- beat (re|pre-|post-)?action:(\n(?! *- ))*|^(?<=\n\n)\n+|^ +
 ```
 
 置換
