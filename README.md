@@ -15,6 +15,7 @@
 
 ### テンプレート
 
+- template/character-base.yml: ......... キャラクターの基礎設計
 - template/episode.yml: ................ エピソード
 - template/scene-elements-beat.yml: .... シーン要素詳細 ビート
 - template/scene-elements-narration.yml: シーン要素詳細 ナレーション
