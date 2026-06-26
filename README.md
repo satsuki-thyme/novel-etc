@@ -37,3 +37,4 @@
 - thinking-notes/thi-003.md: ストーリーテリングの演繹法
 - thinking-notes/thi-004.md: 執筆作業の細分化
 - thinking-notes/thi-005.md: 文章の設計
+- thinking-notes/thi-006.md: キャラクター設定の深化
