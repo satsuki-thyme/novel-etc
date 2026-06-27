@@ -2,11 +2,11 @@
 
 ## 概要比較
 overview comparison:
-  名前 特徴
-
+# 名前 - 特徴
 
 ## 詳細
 details:
+
 ##    ##    ###    ##     ## ########    ########     ###    ##    ## ##    ## ######## ########
 ###   ##   ## ##   ###   ### ##          ##     ##   ## ##   ###   ## ###   ## ##       ##     ##
 ####  ##  ##   ##  #### #### ##          ##     ##  ##   ##  ####  ## ####  ## ##       ##     ##
@@ -15,44 +15,123 @@ details:
 ##   ### ##     ## ##     ## ##          ##     ## ##     ## ##   ### ##   ### ##       ##    ##
 ##    ## ##     ## ##     ## ########    ########  ##     ## ##    ## ##    ## ######## ##     ##
 
+  # 🟨
+  # 🟨
+  # 🟨 プロットタイプ: 試練
+  # 🟨
+  # 🟨
+  - dn: # 名前
+    charm:
+      contents:
+        ! # 魅力
 
-- dn: # 名前
-  charm:
-    contents:
-      # 魅力
-    predicament:
-      # 苦境での魅力
-    normaly:
-      # 通常時の魅力
-  desire:
-    contents:
-      # 欲求
-    conflict:
-      # 欲求と対立する人・物事
-    background connected to desire:
-      # 欲求に繋がる背景
-  plot requirements:
-    type:
-      # プロットタイプ（試練など）
-    contents:
-      theme:
-        # 課題
-      inner self that confront (weaknesses):
-        # 弱点
-      antagonist:
-        # 敵対者・物事
-      how to overcome:
-        # 試練を乗り越える方法
-      inner change:
-        # 内面の変化
-      right point:
-        # 試練突破に関わる正しいポイント
-      wrong point:
-        # 試練失敗に関わる間違ったポイント
-  what to do:
-    # けっきょく何をするのか
+      predicament:
+        ! # 苦境での魅力
+
+      normaly:
+        ! # 通常時の魅力
+
+    desire:
+      contents:
+        ! # 欲求
+
+      conflict:
+        ! # 欲求と対立する人・物事
+
+      background connected to desire:
+        ! # 欲求に繋がる背景
+
+    plot requirements:
+      type:
+        試練 # プロットタイプ
+
+      contents:
+        theme:
+          ! # 課題
+
+        inner self that confront (weaknesses):
+          ! # 克服する弱点
+
+        antagonist:
+          ! # 敵対者・物事
+
+        how to overcome:
+          ! # 試練を乗り越える方法
+
+        inner change:
+          ! # 内面の変化
+
+        right point:
+          ! # 試練突破に関わる正しいポイント
+
+        wrong point:
+          ! # 試練失敗に関わる間違ったポイント
+
+    what to do:
+      ! # けっきょく何をするのか
 
 
 
 
+
+##    ##    ###    ##     ## ########    ########     ###    ##    ## ##    ## ######## ########
+###   ##   ## ##   ###   ### ##          ##     ##   ## ##   ###   ## ###   ## ##       ##     ##
+####  ##  ##   ##  #### #### ##          ##     ##  ##   ##  ####  ## ####  ## ##       ##     ##
+## ## ## ##     ## ## ### ## ######      ########  ##     ## ## ## ## ## ## ## ######   ########
+##  #### ######### ##     ## ##          ##     ## ######### ##  #### ##  #### ##       ##   ##
+##   ### ##     ## ##     ## ##          ##     ## ##     ## ##   ### ##   ### ##       ##    ##
+##    ## ##     ## ##     ## ########    ########  ##     ## ##    ## ##    ## ######## ##     ##
+
+  # 🟨
+  # 🟨
+  # 🟨 プロットタイプ: 導き手
+  # 🟨
+  # 🟨
+  - dn: # 名前
+    charm:
+      contents:
+        ! # 魅力
+
+      predicament:
+        ! # 困難での魅力
+
+      normaly:
+        ! # 通常時の魅力
+
+    desire:
+      contents:
+        ! # 欲求
+
+      conflict:
+        ! # 対立相手・物事
+
+      background connected to desire:
+        ! # 欲求を持った背景
+
+    plot requirements:
+      type:
+        導き手 # プロットのタイプ
+
+      contents:
+        target:
+          ! # 対立相手・物事
+
+        how to exploit weaknesses:
+          ! # 弱点を突く方法と戦う
+
+        how to exit:
+          ! # 退場する方法
+
+        reason for exit (weaknesses):
+          ! # 退場した理由
+
+        relationship with plot of target:
+          type:
+            ! # 対立相手・物事との関係
+
+          wrong point:
+            ! # 試練を乗り越えられなかった間違ったポイント
+
+    what to do:
+      ! # けっきょく何をするのか
 
