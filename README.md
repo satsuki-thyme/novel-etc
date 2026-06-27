@@ -4,14 +4,15 @@
 
 ### TLF
 
-- diff.yml: ........ opによる世界観の差分
-- idealmd: ......... アイデア
-- index.json: ...... opのインデックス
-- LICENSE: ......... ライセンス
-- markup.json: ..... opの編集記号
-- MGMT.md: ......... 管理
-- root-theme.yml: .. ルートテーマ
-- serarch-string.md: 検索文字集
+- basic-rules-for-kana-kanji.md: かな漢字基本則
+- diff.yml: .................... opによる世界観の差分
+- idealmd: ..................... アイデア
+- index.json: .................. opのインデックス
+- LICENSE: ..................... ライセンス
+- markup.json: ................. opの編集記号
+- MGMT.md: ..................... 管理
+- root-theme.yml: .............. ルートテーマ
+- serarch-string.md: ........... 検索文字集
 
 ### テンプレート
 
