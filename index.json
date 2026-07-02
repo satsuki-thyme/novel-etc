@@ -5,17 +5,22 @@
     "publish": false
   },
   {
-    "dn": "../etc/configuration-setting-method",
+    "dn": "../project/configuration-setting-method",
     "active": false,
     "publish": false
   },
   {
-    "dn": "../etc/plot-creation-method",
+    "dn": "../project/plot-creation-method",
     "active": false,
     "publish": false
   },
   {
-    "dn": "../etc/research-on-novel-creating",
+    "dn": "../project/research-of-literary-ornamentation",
+    "active": false,
+    "publish": false
+  },
+  {
+    "dn": "../project/research-on-novel-creating",
     "active": false,
     "publish": false
   },
