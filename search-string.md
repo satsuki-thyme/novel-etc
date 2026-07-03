@@ -5,7 +5,7 @@
 -------
 
 ``` glob
-settings.json, ./story-world, ./etc, thinking-notes, settings/history, archive
+settings.json, ./story-world, ./novel-etc, thinking-notes, settings/history, archive
 ```
 
 ## チャプタープロット
