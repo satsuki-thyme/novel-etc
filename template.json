@@ -1,4 +1,4 @@
 {
   "normal": "$text_follow_option",
-  "x": "小説の投稿前プリ公開です！\n\n$title\n$subtitle\n$link_url"
+  "x": "小説の投稿前プリ公開です！\n\n$title\n――$description\n\n第$episode_num話 $subtitle\n$link_url"
 }
