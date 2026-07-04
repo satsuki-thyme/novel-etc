@@ -33,11 +33,11 @@
 - notes/not-001.md: 伏線の2段回収
 - notes/not-002.md: 物語に現れる演繹的な構造
 
-### 思考ノート
+### アイデアノート
 
-- thinking-notes/thi-001.md: 掌編企画
-- thinking-notes/thi-002.md: 伏線の2段回収
-- thinking-notes/thi-003.md: ストーリーテリングの演繹法
-- thinking-notes/thi-004.md: 執筆作業の細分化
-- thinking-notes/thi-005.md: 文章の設計
-- thinking-notes/thi-006.md: キャラクター設定の深化
+- idea-notes/ide-001.md: 掌編企画
+- idea-notes/ide-002.md: 伏線の2段回収
+- idea-notes/ide-003.md: ストーリーテリングの演繹法
+- idea-notes/ide-004.md: 執筆作業の細分化
+- idea-notes/ide-005.md: 文章の設計
+- idea-notes/ide-006.md: キャラクター設定の深化
