@@ -2,31 +2,39 @@
 
 ## 目次
 
-### TLF
+### etc
 
-- basic-rules-for-kana-kanji.md: かな漢字基本則
-- diff.yml: .................... opによる世界観の差分
-- idealmd: ..................... アイデア
-- index.json: .................. opのインデックス
-- LICENSE: ..................... ライセンス
-- markup.json: ................. opの編集記号
-- MGMT.md: ..................... 管理
-- root-theme.yml: .............. ルートテーマ
-- serarch-string.md: ........... 検索文字集
+- etc/basic-rules-for-kana-kanji.md: かな漢字基本則
+- etc/diff.yml: .................... opによる世界観の差分
+- etc/idealmd: ..................... アイデア
+- etc/root-theme.yml: .............. ルートテーマ
+- etc/serarch-string.md: ........... 検索文字集
 
 ### テンプレート
 
-- template/character-base.yml: ......... キャラクターの基礎設計
-- template/character-traits.yml: ....... キャラクターの性質設定
-- template/episode.yml: ................ エピソード
-- template/scene-elements-beat.yml: .... シーン要素詳細 ビート
-- template/scene-elements-narration.yml: シーン要素詳細 ナレーション
-- template/scene.yml: .................. シーン
+#### キャラクター
+
+- template/character/character-background.yml: キャラクターの背景設定
+- template/character/character-base.yml: ..... キャラクターの基礎設計
+- template/character/character-traits.yml: ... キャラクターの性質設定
+
+#### 物語構造体
+
+- template/structure/episode.yml: ................ エピソード
+- template/structure/scene-elements-beat.yml: .... シーン要素詳細 ビート
+- template/structure/scene-elements-narration.yml: シーン要素詳細 ナレーション
+- template/structure/scene.yml: .................. シーン
 
 ### VS Code settings.json
 
 - settings.json/highlight/new-TODO-Highlight.json: 拡張機能 TODO Hihghlight
 - settings.json/highlight/original-Highlight.json: 拡張機能 Highlight
+
+### サイト関連
+
+- index.json: .. opのインデックス
+- markup.json: . opの編集記号
+- template.json: テンプレート
 
 ### ノート
 

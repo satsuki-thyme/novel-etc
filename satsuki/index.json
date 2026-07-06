@@ -5,11 +5,6 @@
     "publish": false
   },
   {
-    "dn": "../project/character-setting-method",
-    "active": false,
-    "publish": false
-  },
-  {
     "dn": "../project/novel-creating-method",
     "active": false,
     "publish": false
