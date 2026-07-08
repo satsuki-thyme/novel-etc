@@ -5,25 +5,25 @@
 ### etc
 
 - etc/basic-rules-for-kana-kanji.md: かな漢字基本則
-- etc/diff.yml: .................... opによる世界観の差分
-- etc/idealmd: ..................... アイデア
-- etc/root-theme.yml: .............. ルートテーマ
-- etc/serarch-string.md: ........... 検索文字集
+- etc/diff.yml:                      opによる世界観の差分
+- etc/idealmd:                       アイデア
+- etc/root-theme.yml:                ルートテーマ
+- etc/serarch-string.md:             検索文字集
 
 ### テンプレート
 
 #### キャラクター
 
 - template/character/character-background.yml: キャラクターの背景設定
-- template/character/character-base.yml: ..... キャラクターの基礎設計
-- template/character/character-traits.yml: ... キャラクターの性質設定
+- template/character/character-base.yml:       キャラクターの基礎設計
+- template/character/character-traits.yml:     キャラクターの性質設定
 
 #### 物語構造体
 
-- template/structure/episode.yml: ................ エピソード
-- template/structure/scene-elements-beat.yml: .... シーン要素詳細 ビート
+- template/structure/episode.yml:                  エピソード
+- template/structure/scene-elements-beat.yml:      シーン要素詳細 ビート
 - template/structure/scene-elements-narration.yml: シーン要素詳細 ナレーション
-- template/structure/scene.yml: .................. シーン
+- template/structure/scene.yml:                    シーン
 
 ### VS Code settings.json
 
@@ -32,8 +32,8 @@
 
 ### サイト関連
 
-- index.json: .. opのインデックス
-- markup.json: . opの編集記号
+- index.json:    opのインデックス
+- markup.json:   opの編集記号
 - template.json: テンプレート
 
 ### ノート
