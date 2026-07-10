@@ -1,40 +1,40 @@
 
-    - 🟧 beat group: 
-      beat group configuration:
-        beat group role: # 役割（準備・本番・後続、その他）
-        beat group expressive staging: # 表現上の演出
+          - 🟧 beat group: 
+            beat group configuration:
+              beat group role: # 役割（準備・本番・後続、その他）
+              beat group expressive staging: # 表現上の演出
 
-      beat group contents:
+            beat group contents:
 
-        - 🟨 beat: 
-          beat configuration:
-            beat role: # 役割（準備・本番・後続、その他）
-            beat literal meaning: # 言葉上の意味
-            beat expressive staging: # 表現上の演出
+              - 🟨 beat: 
+                beat configuration:
+                  beat role: # 役割（準備・本番・後続、その他）
+                  beat literal meaning: # 言葉上の意味
+                  beat expressive staging: # 表現上の演出
 
-          beat performance:
+                beat performance:
 
-            - beat pre-action:
-              - beat dn: 
-                beat tone: 
-                beat activity: 
+                  - beat pre-action:
+                    - beat dn: 
+                      beat tone: 
+                      beat activity: 
 
-            - beat action:
-              - beat dn: 
-                beat tone: 
-                beat activity: 
+                  - beat action:
+                    - beat dn: 
+                      beat tone: 
+                      beat activity: 
 
-            - beat narration in beat:
-                - 
+                  - beat narration in beat:
+                      - 
 
-            - beat reaction:
-              - beat dn: 
-                beat tone: 
-                beat activity: 
+                  - beat reaction:
+                    - beat dn: 
+                      beat tone: 
+                      beat activity: 
 
-            - beat post-reaction:
-              - beat dn: 
-                beat tone: 
-                beat activity: 
+                  - beat post-reaction:
+                    - beat dn: 
+                      beat tone: 
+                      beat activity: 
 
 
