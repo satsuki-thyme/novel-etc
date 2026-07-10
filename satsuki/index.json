@@ -15,6 +15,11 @@
     "publish": false
   },
   {
+    "dn": "../project/research-of-narrative-construction",
+    "active": false,
+    "publish": false
+  },
+  {
     "dn": "../project/research-of-novel-creating",
     "active": false,
     "publish": false
