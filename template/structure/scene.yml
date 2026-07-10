@@ -1,44 +1,44 @@
 
 - ⬜ sequence: 
-    sequence gist:
-      - sequence gist item: 
-      - sequence gist item: 
+  sequence gist:
+    - sequence gist item: 
+    - sequence gist item: 
 
-    sequence elements:
+  sequence configuration:
 
-      - 🟥 scene: 
-        scene emotion: 
-        scene gist:
-          - scene gist item: 
-          - scene gist item: 
+    sequence climax: 
 
-        scene configuration:
+    sequence meaning of the sequence:
+      - sequence meaning item: 
 
-          scene climax: 
+    sequence interest:
+      - sequence interest item: 
 
-          scene meaning of the scene:
-            - scene meaning item: 
+    sequence matters of desire:
+      - sequence desire dn: 
+        sequence desire: 
+        sequence conflict:
+          - sequence conflict dn: 
+            sequence conflict desire: 
+        sequence risk: 
+        sequence results: 
+        sequence gap: 
 
-          scene interest:
-            - scene interest item: 
+    sequence value change:
+      - sequence value dn: 
+        sequence value: 
+        sequence change: .
+        sequence value note: 
 
-          scene matters of desire:
-            - scene desire dn: 
-              scene desire: 
-              scene conflict:
-                - scene conflict dn: 
-                  scene conflict desire: 
-              scene risk: 
-              scene results: 
-              scene gap: 
+    sequence unpredictability of the end:
+      - sequence unpredictability item: 
 
-          scene value change:
-            - scene value dn: 
-              scene value: 
-              scene change: .
-              scene value note: 
+  sequence elements:
 
-          scene unpredictability of the end:
-            - scene unpredictability item: 
+    - 🟥 scene: 
+      emotion: 
+      scene gist:
+        - scene gist item: 
+        - scene gist item: 
 
-        scene elements:
+      scene elements:
