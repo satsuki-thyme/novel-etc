@@ -8,53 +8,53 @@
 settings.json, ./story-world, ./novel-etc, thinking-notes, settings/history, archive
 ```
 
-## チャプタープロット
----------------------
+## チャプターの物語構造体
+-------------------------
 
 ### 概略
 
 検索:
 ``` regex
-(?=episode: \d+|summary)
+(?=🟦|summary|impression)
 ```
 
 ### 試練
 
 検索:
 ``` regex
-(?=odA|episode: \d+)
+(?=odA|🟦)
 ```
 
 ### 情報提示
 
 検索:
 ``` regex
-(?=inf|episode: \d+)
+(?=inf|🟦)
 ```
 
 ### キー要素
 
 検索:
 ``` regex
-(?=odA|key|li1|li2|bGr|inf|episode: \d+|summary)
+(?=odA|key|li1|li2|bGr|inf|🟦|summary)
 ```
 
-### 統合プロット
+### 統合の物語構造体
 
 検索:
 ``` regex
-(?=(alice|leona|myria) (odA|bGr|li\d)|integ (gDs|lDs|odA|odR|ke|inf|env locat)|episode: \d+|summary)
+(?=(alice|leona|myria) (odA|bGr|li\d)|integ (gDs|lDs|odA|odR|ke|inf|env locat)|🟦|summary)
 ```
 
-### サブプロット
+### サブの物語構造体
 
 検索:
 ``` regex
-(?=li\d|episode: \d+|summary)
+(?=li\d|🟦|summary)
 ```
 
-## エピソードプロット
----------------------
+## エピソードの物語構造体
+-------------------------
 
 ### シーン・クライマックス設定
 
