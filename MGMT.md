@@ -1,3 +1,9 @@
-# 管理
+# management
 
+## task
 
+- 🟨 task
+  - 🟦 reserve
+  - 🟦 await
+  - 🟦 archive
+  - 🟦 void
