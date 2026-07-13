@@ -11,46 +11,46 @@ settings.json, ./story-world, ./novel-etc, thinking-notes, settings/history, arc
 ## チャプターの物語構造体
 -------------------------
 
-### 概略
+### サマリー、インプレッション
 
 検索:
 ``` regex
-(?=🟦|summary|impression)
+(?=impression|🟦|\n.*🟦|summary)
 ```
 
 ### 試練
 
 検索:
 ``` regex
-(?=odA|🟦)
+(?=odA|🟦|\n.*🟦)
 ```
 
 ### 情報提示
 
 検索:
 ``` regex
-(?=inf|🟦)
+(?=inf|🟦|\n.*🟦)
 ```
 
 ### キー要素
 
 検索:
 ``` regex
-(?=odA|key|li1|li2|bGr|inf|🟦|summary)
+(?=key|odA|l\d[ARC]|bgr|inf|🟦|\n.*🟦|summary)
 ```
 
-### 統合の物語構造体
+### 統合系列の物語構造体
 
 検索:
 ``` regex
-(?=(alice|leona|myria) (odA|bGr|li\d)|integ (gDs|lDs|odA|odR|ke|inf|env locat)|🟦|summary)
+(?=integ (gDs|lDs|od[ARC]|key|drv|inf)|(alice|leona|myria) (odA|bgr|l\dA)|🟦|\n.*🟦|summary|location)
 ```
 
 ### サブの物語構造体
 
 検索:
 ``` regex
-(?=li\d|🟦|summary)
+(?=l\d[ARC]|🟦|\n.*🟦|summary)
 ```
 
 ## エピソードの物語構造体
