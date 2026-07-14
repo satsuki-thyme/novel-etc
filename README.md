@@ -33,8 +33,8 @@
 ### サイト関連
 
 - index.json:    opのインデックス
-- markup.json:   opの編集記号
-- template.json: テンプレート
+- markup.json:   編集記号
+- template.json: 自動化向けのテンプレート
 
 ### ノート
 
@@ -49,3 +49,4 @@
 - idea-notes/ide-004.md: 執筆作業の細分化
 - idea-notes/ide-005.md: 文章の設計
 - idea-notes/ide-006.md: キャラクター設定の深化
+- idea-notes/ide-007.md: カドコミ漫画原作コンテスト応募作品案
