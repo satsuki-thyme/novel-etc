@@ -1,5 +1,5 @@
 
-        - 🟧 beat group: 
+        - beat group: 
           beat group configuration:
             beat group role: # 役割（準備・本番・後続、その他）
             beat group behavior meaning: # 振る舞い上の意味
@@ -7,7 +7,7 @@
 
           beat group contents:
 
-            - 🟨 beat: 
+            - beat: 
               beat configuration:
                 beat role: # 役割（準備・本番・後続、その他）
                 beat literal meaning: # 言葉上の意味

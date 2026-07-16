@@ -1,5 +1,5 @@
 
-- ⬜ sequence: 
+- sequence: 
   sequence gist:
     - sequence gist item: 
     - sequence gist item: 
@@ -35,7 +35,7 @@
 
   sequence elements:
 
-    - 🟥 scene: 
+    - scene: 
       emotion: 
       scene gist:
         - scene gist item: 
