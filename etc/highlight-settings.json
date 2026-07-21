@@ -68,67 +68,6 @@
 
 
 
-        /*
-
-            行
-
-        */
-        // ^行の強調
-        "(?<=^[ \\t]*.*?[:-]? )(\\^)*(~)*(maxemph[\\s\\S\\n]+?maxemph)*((?<=^[ \\t]*)\\..*)*": {
-            "filterLanguageRegex": "markdown|yaml",
-            "regexFlags": "gm",
-            "decorations": [
-                {
-                    "color": "#ff00bb",
-                    "fontWeight": "bold"
-                },
-                {
-                    "color": "#00aaff",
-                    "fontWeight": "bold"
-                },
-                {
-                    "color": "#000000",
-                    "backgroundColor": "#ffffff",
-                    "fontWeight": "bold",
-                },
-                {
-                    "opacity": "0.43"
-                }
-            ]
-        },
-        /*
-
-            マーカー
-
-        */
-        // マーカー
-        "(need to think|ntt)(\\(.*?\\))?": {
-            "filterLanguageRegex": "text|markdown|yaml",
-            "decorations": [
-                {
-                    "fontWeight": "bold",
-                    "color": "#000000",
-                    "backgroundColor": "#e8e8e2",
-                    "borderRadius": "4px"
-                },
-                {
-                    "color": "#e8e8e2",
-                    "textDecoration": "1px underline #e8e8e2"
-                }
-            ]
-        },
-        // マーカー
-        "(work location)": {
-            "filterFileRegex": ".",
-            "decorations": [
-                {
-                    "fontWeight": "bold",
-                    "color": "#ffffff",
-                    "backgroundColor": "#e80000",
-                    "borderRadius": "6px"
-                }
-            ]
-        },
         // マーカー
         "(mark-1)*(mark-2)*(mark-3)": {
             "filterLanguageRegex": "text|markdown|yaml",
