@@ -15,7 +15,10 @@
 
               beat performance:
 
-                beat narration:
-                  - 
+                - beat narration:
+                  beat tone: 
+                  beat metaphor: false
+                  beat contents:
+                    - 
 
 

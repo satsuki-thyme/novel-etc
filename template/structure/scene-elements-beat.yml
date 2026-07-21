@@ -18,11 +18,13 @@
                 - beat pre-action:
                   - beat dn: 
                     beat tone: 
+                    beat metaphor: false
                     beat activity: 
 
                 - beat action:
                   - beat dn: 
                     beat tone: 
+                    beat metaphor: false
                     beat activity: 
 
                 - beat narration in beat:
@@ -31,11 +33,13 @@
                 - beat reaction:
                   - beat dn: 
                     beat tone: 
+                    beat metaphor: false
                     beat activity: 
 
                 - beat post-reaction:
                   - beat dn: 
                     beat tone: 
+                    beat metaphor: false
                     beat activity: 
 
 
