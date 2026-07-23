@@ -23,10 +23,10 @@
         episode val-item: 
         episode change: .
 
-    episode worldview:
-      - worldview item: 
-      - worldview item: 
-      - worldview item: 
+    episode world-building:
+      - world-building item: 
+      - world-building item: 
+      - world-building item: 
 
     episode notes:
       - 
