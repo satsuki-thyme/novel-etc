@@ -6,34 +6,34 @@
 
         - item: 有無
           contents:
-            !
+            ^
 
         - item: エフェクト
           contents:
-            !
+            ^
 
     - item: 魔法
       contents:
-        !
+        ^
 
     - item: 魔法行使時の魔法陣
       contents:
 
         - item: 有無
           contents:
-            !
+            ^
 
         - item: エフェクト
           contents:
-            !
+            ^
 
     - item: 神
       contents:
-        !
+        ^
 
     - item: 信仰
       contents:
-        !
+        ^
 
 - op: 76
   contents:
@@ -93,18 +93,18 @@
 
     - item: 魔法
       contents:
-        権能魔法は存在しない
+        ^
 
     - item: 魔法行使時の魔法陣
       contents:
 
         - item: 有無
           contents:
-            !
+            ^
 
         - item: エフェクト
           contents:
-            !
+            ^
 
     - item: 神
       contents:
@@ -128,22 +128,22 @@
 
         - item: エフェクト
           contents:
-            !
+            ^
 
     - item: 魔法
       contents:
-        !
+        ^
 
     - item: 魔法行使時の魔法陣
       contents:
 
         - item: 有無
           contents:
-            !
+            ^
 
         - item: エフェクト
           contents:
-            !
+            ^
 
     - item: 神
       contents:
