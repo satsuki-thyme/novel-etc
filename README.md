@@ -6,6 +6,7 @@
 
 - etc/basic-rules-for-kana-kanji.md: かな漢字基本則
 - etc/diff.yml:                      opによる世界観の差分
+- etc/example-of-structure.yml:      物語構造体の例
 - etc/idea.md:                       アイデア
 - etc/root-theme.yml:                ルートテーマ
 - etc/serarch-string.md:             検索文字集
@@ -25,15 +26,11 @@
 - template/structure/scene-elements-narration.yml: シーン要素詳細 ナレーション
 - template/structure/scene.yml:                    シーン
 
-### VS Code settings.json
-
-- etc/highlight-settings.json: 拡張機能 Highlight 残りの設定
-
 ### サイト関連
 
-- index.json:    opのインデックス
-- markup.json:   編集記号
-- template.json: 自動化向けのテンプレート
+- satsuki/index.json:    opのインデックス
+- satsuki/markup.json:   編集記号
+- satsuki/template.json: 自動化向けのテンプレート
 
 ### ノート
 
