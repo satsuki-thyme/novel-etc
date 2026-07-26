@@ -1,0 +1,6 @@
+# 物語構造体の例
+
+- item: 世界設定
+  contents:
+    - /world mod noCha --- ---- - - ------- 設定文
+    - /world mod alice --- ---- - - ------- 設定文
