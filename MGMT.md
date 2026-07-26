@@ -2,8 +2,8 @@
 
 ## task
 
-- 🟨 task
-  - 🟦 reserve
-  - 🟦 await
-  - 🟦 archive
-  - 🟦 void
+- task
+  - reserve
+  - await
+  - archive
+  - void
