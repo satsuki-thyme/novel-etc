@@ -1,4 +1,5 @@
-- op: 
+- op: template
+  base world: 物語世界1
   contents:
 
     - item: 身体強化
@@ -36,6 +37,7 @@
         ^
 
 - op: 76
+  base world: 物語世界1
   contents:
 
     - item: 身体強化
@@ -77,6 +79,7 @@
         国教や土着信仰がある
 
 - op: 72
+  base world: 物語世界1
   contents:
 
     - item: 身体強化
@@ -117,6 +120,7 @@
         国教や土着信仰がある
 
 - op: 65
+  base world: 物語世界1
   contents:
 
     - item: 身体強化

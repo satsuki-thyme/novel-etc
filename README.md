@@ -32,6 +32,10 @@
 - satsuki/markup.json:   編集記号
 - satsuki/template.json: 自動化向けのテンプレート
 
+### AI
+
+- ai/ChatGPT/project-instructions.md: プロジェクトの指示
+
 ### ノート
 
 - notes/not-001.md: 伏線の2段回収
@@ -46,3 +50,4 @@
 - idea-notes/ide-005.md: 文章の設計
 - idea-notes/ide-006.md: キャラクター設定の深化
 - idea-notes/ide-007.md: カドコミ漫画原作コンテスト応募作品案
+- idea-notes/ide-008.md: ChatGPT 小説制作プロジェクト
