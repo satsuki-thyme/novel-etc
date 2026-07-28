@@ -34,7 +34,14 @@
 
 ### AI
 
-- ai/ChatGPT/project-instructions.md: プロジェクトの指示
+#### ChatGPT
+
+- ai/ChatGPT/etc/consultation.toml:       ChatGPTへの相談内容
+- ai/ChatGPT/etc/project-instructions.md: プロジェクトの指示
+
+#### etc
+
+- ai/etc/display.yml: AI利用の表示
 
 ### ノート
 
