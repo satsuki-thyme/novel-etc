@@ -40,16 +40,6 @@
     "publish": true
   },
   {
-    "dn": "../writing",
-    "active": false,
-    "publish": false
-  },
-  {
-    "dn": "tmp",
-    "active": false,
-    "publish": false
-  },
-  {
     "dn": "op1",
     "active": false,
     "publish": false
