@@ -1,6 +1,7 @@
 // 検索の文字列
 
-let target = ""
+let regexp = new regexp(``)
+let glob = new glob(``)
 
 /*
 
@@ -9,7 +10,7 @@ let target = ""
 
 */
 
-target.glob(`settings.json, ./story-world, ./novel-etc, thinking-notes, settings/history, archive`)
+glob = `./story-world, ./novel-etc, thinking-notes, settings/history, archive`
 
 
 
@@ -22,32 +23,32 @@ target.glob(`settings.json, ./story-world, ./novel-etc, thinking-notes, settings
 
 // ### サマリー、インプレッション
 
-target.search(/(?=impression|^- episode:|\n- episode:|summary:)/)
+regexp = /(?=impression|\n?- episode:|summary:|impression:|location:)/gm
 
 
 // ### 試練
 
-target.search(/(?=odA|\n- episode:)/)
+regexp = /(?=chO|\n- episode:|summary:|impression:|location:)/gm
 
 
 // ### 情報提示
 
-target.search(/(?=inf|\n- episode:)/)
+regexp = /(?=inf|\n- episode:|summary:|impression:|location:)/gm
 
 
 // ### キー要素
 
-target.search(/(?=key|odA|l\d[ARC]|bgr|inf|^- episode:|\n- episode:|summary:)/)
+regexp = /(?=key|chO|l\d[ORC]|drv|bgr|inf|\n?- episode:|summary:|impression:|location:)/gm
 
 
 // ### 統合系列の物語構造体
 
-target.search(/(?=integ (gDs|lDs|od[ARC]|key|drv|inf)|(alice|leona|myria) (odA|bgr|l\dA)|^- episode:|\n- episode:|summary:|location)/)
+regexp = /(?=integ (gDs|lDs|od[ORC]|key|drv|inf)|(alice|leona|myria) (chO|bgr|l\dA)|\n?- episode:|summary:|impression:|location:)/gm
 
 
 // ### サブの物語構造体
 
-target.search(/(?=l\d[ARC]|^- episode:|\n- episode:|summary:)/)
+regexp = /(?=l\d[ORC]|\n?- episode:|summary:|impression:|location:)/gm
 
 
 
@@ -60,16 +61,16 @@ target.search(/(?=l\d[ARC]|^- episode:|\n- episode:|summary:)/)
 
 // ### シーン・クライマックス設定
 
-target.search(/(?=- scene:|gist|climax)/)
+regexp = /(?=\n?[ \t]*- scene:|gist|climax)/gm
 
 
 // ### ビート設定
 
-target.search(/(?=- scene:|gist|climax|elements|- beat group:|- beat:)/)
+regexp = /(?=\n?[ \t]*- scene:|gist|climax|elements|- beat group:|- beat:)/gm
 
 
 // ### 本文執筆ガイド向け削除と置換
 
-target.search(/^ *- - scene:[\s\S\n]*?(?=- beat:)|(?<=- beat:)[\s\S\n]*?beat performance:(\n(?! *- (?!beat (re|pre-|post-)?action)))*|^\n? *- beat (re|pre-|post-)?action:(\n(?! *- ))*|^(?<=\n\n)\n+|^ +/)
+replace(/^ *- \n?[ \t]*- scene:[\s\S\n]*?(?=- beat:)|(?<=- beat:)[\s\S\n]*?beat performance:(\n(?! *- (?!beat (re|pre-|post-)?action)))*|^\n? *- beat (re|pre-|post-)?action:(\n(?! *- ))*|^(?<=\n\n)\n+|^ +/gm, ``)
 
-target.replace(/^(?=beat)|(?<=beat.*)$/, `- `)
+replace(/^(?=beat)|(?<=beat.*)$/gm, `- `)
