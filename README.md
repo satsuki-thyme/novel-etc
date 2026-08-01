@@ -1,4 +1,4 @@
-# etc.
+# novel-etc
 
 ## 目次
 

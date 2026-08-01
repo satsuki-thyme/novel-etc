@@ -1,7 +1,5 @@
 # management
 
-## task
-
 - task
   - reserve
   - await
