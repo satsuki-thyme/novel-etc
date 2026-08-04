@@ -5,31 +5,6 @@
     "publish": false
   },
   {
-    "dn": "../project/novel-creating-method",
-    "active": false,
-    "publish": false
-  },
-  {
-    "dn": "../project/research-of-literary-ornamentation",
-    "active": false,
-    "publish": false
-  },
-  {
-    "dn": "../project/research-of-narrative-construction",
-    "active": false,
-    "publish": false
-  },
-  {
-    "dn": "../project/research-of-novel-creation",
-    "active": false,
-    "publish": false
-  },
-  {
-    "dn": "seed",
-    "active": false,
-    "publish": false
-  },
-  {
     "dn": "story-world",
     "active": false,
     "publish": false
