@@ -1,6 +1,6 @@
           beat group configuration:
             beat group role: # 役割（準備・本番・後続、その他）
-            beat group behavior meaning: # 振る舞い上の意味
+            beat group behavior: # 振る舞い
             beat group expressive staging: # 表現上の演出
 
           beat group contents:

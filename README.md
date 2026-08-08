@@ -21,10 +21,12 @@
 
 #### 物語構造体
 
-- template/structure/episode.yml:                  エピソード
-- template/structure/scene-elements-beat.yml:      シーン要素詳細 ビート
-- template/structure/scene-elements-narration.yml: シーン要素詳細 ナレーション
-- template/structure/scene.yml:                    シーン
+- template/structure/episode.yml:                    エピソード
+- template/structure/scene-elements-beat-group.yml:  シーン要素詳細 ビートグループ
+- template/structure/scene-elements-beat-option.yml: シーン要素詳細 ビートオプション
+- template/structure/scene-elements-beat.yml:        シーン要素詳細 ビート
+- template/structure/scene-elements-narration.yml:   シーン要素詳細 ナレーション
+- template/structure/scene.yml:                      シーン
 
 ### サイト関連
 
