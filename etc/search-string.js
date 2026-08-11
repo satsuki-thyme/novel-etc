@@ -28,12 +28,12 @@ regexp = /(?=impression|\n?- episode:|summary:|impression:|location:)/gm
 
 // ### 試練
 
-regexp = /(?=chO|\n- episode:|summary:|impression:|location:)/gm
+regexp = /(?=chO|\n?- episode:|summary:|impression:|location:)/gm
 
 
 // ### 情報提示
 
-regexp = /(?=inf|\n- episode:|summary:|impression:|location:)/gm
+regexp = /(?=inf|\n?- episode:|summary:|impression:|location:)/gm
 
 
 // ### キー要素
