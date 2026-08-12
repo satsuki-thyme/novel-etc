@@ -10,7 +10,7 @@ let glob = new glob(``)
 
 */
 
-glob = `./story-world, ./novel-etc, thinking-notes, settings/history, archive`
+glob = `idea-notes, settings/history, archive`
 
 
 
