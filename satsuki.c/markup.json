@@ -77,7 +77,7 @@
     "markupType": "enclosure",
     "delete": true,
     "mark": [
-      [["!", "!"], "個人・団体の名称"],
+      [["!", "!"], ""],
       [["?", "?"], "物価"]
     ],
     "path": "mark-list",
