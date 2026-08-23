@@ -1,42 +1,6 @@
 
-- sequence: 
-  sequence gist:
-    - sequence gist item: 
-    - sequence gist item: 
-
-  sequence configuration:
-
-    sequence climax: 
-
-    sequence meaning of the sequence:
-      - sequence meaning item: 
-
-    sequence interest:
-      - sequence interest item: 
-
-    sequence matters of desire:
-      - sequence desire dn: 
-        sequence desire: 
-        sequence conflict:
-          - sequence conflict dn: 
-            sequence conflict desire: 
-        sequence risk: 
-        sequence results: 
-        sequence gap: 
-
-    sequence value change:
-      - sequence value dn: 
-        sequence value: 
-        sequence change: .
-        sequence value note: 
-
-    sequence unpredictability of the end:
-      - sequence unpredictability item: 
-
-  sequence elements:
-
     - scene: 
-      emotion: 
+      scene emotion: 
       scene elements:
 
         - beat group: 
