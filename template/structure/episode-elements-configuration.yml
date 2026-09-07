@@ -3,24 +3,28 @@
 
     episode climax: 
 
-    episode matters of desire:
-      - episode matters of desire dn: 
-        episode matters of desire desire: 
-        episode matters of desire opponent:
-          episode matters of desire dn: 
-          episode matters of desire desire: 
-        episode matters of desire risk: 
-        episode matters of desire results: 
+    episode desire:
+      - episode desire dn: 
+        episode desire desire: 
+        episode desire conflict:
+          - episode desire conflict-dn: 
+            episode desire conflict-desire: 
+        episode desire risk: 
+        episode desire results: 
+        episode desire gap: 
 
-    episode value change:
-      - episode value change dn: 
-        episode value change item: 
-        episode value change change: .
+    episode value-change:
+      - episode value-change dn: 
+        episode value-change item: 
+        episode value-change change: .
 
     episode world-building:
       - episode world-building item: 
       - episode world-building item: 
       - episode world-building item: 
+
+    episode new-proper-noun:
+      - episode new-proper-noun item: 
 
     episode notes:
       - 

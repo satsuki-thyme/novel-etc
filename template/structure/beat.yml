@@ -1,8 +1,8 @@
 
             - beat:
               beat configuration:
-                beat literal meaning: # 言葉上の意味
-                beat expressive staging: # 表現上の演出
+                beat literal-meaning: # 言葉上の意味
+                beat expressive-staging: # 表現上の演出
 
               beat performance:
 
