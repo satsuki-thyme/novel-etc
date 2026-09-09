@@ -1,5 +1,4 @@
 # management
 
-- task
-  - reserve
-  - archive
+- reserve
+- archive
