@@ -60,3 +60,4 @@
 - idea-notes/ide-006.md: キャラクター設定の深化
 - idea-notes/ide-007.md: カドコミ漫画原作コンテスト応募作品案
 - idea-notes/ide-008.md: ChatGPT 小説制作プロジェクト
+- idea-notes/ide-009.md: op80 起案
