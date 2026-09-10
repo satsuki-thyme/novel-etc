@@ -336,7 +336,7 @@
   },
   {
     "dn": "op65",
-    "active": true,
+    "active": false,
     "publish": false
   },
   {
@@ -391,12 +391,12 @@
   },
   {
     "dn": "op76",
-    "active": true,
-    "publish": true
+    "active": false,
+    "publish": false
   },
   {
     "dn": "op77",
-    "active": true,
+    "active": false,
     "publish": false
   },
   {
@@ -408,5 +408,10 @@
     "dn": "op79",
     "active": true,
     "publish": false
+  },
+  {
+    "dn": "op80",
+    "active": true,
+    "publish": true
   }
 ]
