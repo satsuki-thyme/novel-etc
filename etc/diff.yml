@@ -7,34 +7,34 @@
 
         - item: 有無
           contents:
-            ^
+            blank
 
         - item: エフェクト
           contents:
-            ^
+            blank
 
     - item: 魔法
       contents:
-        ^
+        blank
 
     - item: 魔法行使時の魔法陣
       contents:
 
         - item: 有無
           contents:
-            ^
+            blank
 
         - item: エフェクト
           contents:
-            ^
+            blank
 
     - item: 神
       contents:
-        ^
+        blank
 
     - item: 信仰
       contents:
-        ^
+        blank
 
 - op: op76
   base world: world-1
@@ -96,18 +96,18 @@
 
     - item: 魔法
       contents:
-        ^
+        blank
 
     - item: 魔法行使時の魔法陣
       contents:
 
         - item: 有無
           contents:
-            ^
+            blank
 
         - item: エフェクト
           contents:
-            ^
+            blank
 
     - item: 神
       contents:
@@ -132,22 +132,22 @@
 
         - item: エフェクト
           contents:
-            ^
+            blank
 
     - item: 魔法
       contents:
-        ^
+        blank
 
     - item: 魔法行使時の魔法陣
       contents:
 
         - item: 有無
           contents:
-            ^
+            blank
 
         - item: エフェクト
           contents:
-            ^
+            blank
 
     - item: 神
       contents:
