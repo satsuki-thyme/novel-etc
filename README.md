@@ -9,7 +9,7 @@
 - etc/example-of-structure.yml:      物語構造体の例
 - etc/idea.md:                       アイデア
 - etc/root-theme.yml:                ルートテーマ
-- etc/serarch-string.md:             検索文字集
+- etc/search-string.js:              検索文字集
 
 ### テンプレート
 
@@ -21,29 +21,21 @@
 
 #### 物語構造体
 
-- template/structure/episode.yml:                    エピソード
-- template/structure/scene-elements-beat-group.yml:  シーン要素詳細 ビートグループ
-- template/structure/scene-elements-beat-option.yml: シーン要素詳細 ビートオプション
-- template/structure/scene-elements-beat.yml:        シーン要素詳細 ビート
-- template/structure/scene-elements-narration.yml:   シーン要素詳細 ナレーション
-- template/structure/scene.yml:                      シーン
+template/structure/beat-group.yml:                     シーン要素 ビートグループ
+template/structure/beat-option.yml:                    シーン要素 ビートオプション
+template/structure/beat.yml:                           シーン要素 ビート
+template/structure/episode-elements-assembly.yml:      エピソード要素 アッセンブリ
+template/structure/episode-elements-configuration.yml: エピソード要素 コンフィギュレーション
+template/structure/episode-elements-header.yml:        エピソード要素 ヘッダー
+template/structure/narration.yml:                      シーン要素 ナレーション
+template/structure/scene.yml:                          シーン要素 シーン
+template/structure/sequence.yml:                       シーン要素 シーケンス
 
 ### サイト関連
 
-- satsuki/index.json:    opのインデックス
-- satsuki/markup.json:   編集記号
-- satsuki/template.json: 自動化向けのテンプレート
-
-### AI
-
-#### ChatGPT
-
-- ai/ChatGPT/etc/consultation.toml:       ChatGPTへの相談内容
-- ai/ChatGPT/etc/project-instructions.md: プロジェクトの指示
-
-#### etc
-
-- ai/etc/display.yml: AI利用の表示
+- satsuki.c/index.json:    opのインデックス
+- satsuki.c/markup.json:   編集記号
+- satsuki.c/template.json: 自動化向けのテンプレート
 
 ### ノート
 
@@ -61,3 +53,7 @@
 - idea-notes/ide-007.md: カドコミ漫画原作コンテスト応募作品案
 - idea-notes/ide-008.md: ChatGPT 小説制作プロジェクト
 - idea-notes/ide-009.md: op80 起案
+
+### 思考ノート
+
+- thinking-notes/thi-001.md: 新作を考える（op83）
