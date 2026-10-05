@@ -5,6 +5,11 @@
     "publish": false
   },
   {
+    "dn": "novel-etc",
+    "active": false,
+    "publish": false
+  },
+  {
     "dn": "story-world",
     "active": false,
     "publish": false
@@ -421,6 +426,11 @@
   },
   {
     "dn": "op82",
+    "active": true,
+    "publish": false
+  },
+  {
+    "dn": "op83",
     "active": true,
     "publish": false
   }
