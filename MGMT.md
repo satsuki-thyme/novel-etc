@@ -1,6 +1,6 @@
 # management
 
-## task
+## notes
 
-### archive
-
+- [memo](etc/memo.md)
+- [memo](etc/knowledge.md)
