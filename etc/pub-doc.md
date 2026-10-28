@@ -1,19 +1,14 @@
 # ドキュメントの公開名
 
-## novel etc
-
-- novel-etc/thinking-notes/thi-001.md: 思考ノート - 新作を考える（op83）
-
-## op
-
-### reserve
+## reserve
 
 - op/thinking-notes/thi-00.md: 思考ノート - 
 - op78/thinking-notes/thi-004.md: 思考ノート - 精鈴草を採りに行くイベントをどうするか（op78）
+
+## published
+
 - op83/thinking-notes/thi-006.md: 思考ノート - 小説のコンセプト再考（op83）
-
-### published
-
+- op79/thinking-notes/thi-011.md: 思考ノート - 主人公の親友のプロット基礎設定（op79）
 - op78/thinking-notes/thi-003.md: 思考ノート - 妖精女王に会う方法をどうするか（op78）
 - op78/thinking-notes/thi-003.md: 思考ノート - 妖精女王に会う方法を決める（op78）
 - op83/thinking-notes/thi-005.md: 思考ノート - 小説作品の企画と作り始め（op83）
@@ -32,3 +27,4 @@
 - op80/thinking-notes/thi-001.md: 思考ノート - コンセプト決定（op80）
 - op79/thinking-notes/thi-002.md: 思考ノート - ネイキスの欲求
 - op79/thinking-notes/thi-001.md: 思考ノート - ネイキス
+- etc/thinking-notes/thi-001.md: 思考ノート - 新作を考える（op83）
