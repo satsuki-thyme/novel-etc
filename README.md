@@ -7,7 +7,6 @@
 - etc/basic-rules-for-kana-kanji.md: かな漢字基本則
 - etc/diff.yml:                      opによる世界観の差分
 - etc/example-of-structure.yml:      物語構造体の例
-- etc/idea.md:                       アイデア
 - etc/root-theme.yml:                ルートテーマ
 - etc/search-string.js:              検索文字集
 
