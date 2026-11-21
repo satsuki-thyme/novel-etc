@@ -5,29 +5,35 @@
 ### etc
 
 - etc/basic-rules-for-kana-kanji.md: かな漢字基本則
-- etc/diff.yml:                      opによる世界観の差分
-- etc/example-of-structure.yml:      物語構造体の例
-- etc/root-theme.yml:                ルートテーマ
+- etc/diff.yaml:                     opによる世界観の差分
+- etc/example-of-structure.yaml:      物語構造体の例
+- etc/root-theme.yaml:               ルートテーマ
 - etc/search-string.js:              検索文字集
 
 ### テンプレート
 
 #### キャラクター
 
-- template/character/character-background.yml: キャラクターの背景設定
-- template/character/character-base.yml:       キャラクターの基礎設計
-- template/character/character-traits.yml:     キャラクターの性質設定
+- template/character/character-background.yaml: キャラクターの背景設定
+- template/character/character-base.yaml:       キャラクターの基礎設計
+- template/character/character-traits.yaml:     キャラクターの性質設定
+
+#### プロット基礎設定
+
+- template/plot/plot-base-header.yaml: ヘッダ
+- template/plot/plot-base-mentor.yaml: ボディ 導き手
+- template/plot/plot-base-ordeal.yaml: ボディ 試練
 
 #### 物語構造体
 
-- template/structure/beat-group.yml:              シーン要素 ビートグループ
-- template/structure/beat-option.yml:             シーン要素 ビートオプション
-- template/structure/beat.yml:                    シーン要素 ビート
-- template/structure/episode-elements-body.yml:   エピソード要素 ボディ
-- template/structure/episode-elements-header.yml: エピソード要素 ヘッダー
-- template/structure/narration.yml:               シーン要素 ナレーション
-- template/structure/scene.yml:                   シーン要素 シーン
-- template/structure/sequence.yml:                シーン要素 シーケンス
+- template/structure/beat-group.yaml:              シーン要素 ビートグループ
+- template/structure/beat-option.yaml:             シーン要素 ビートオプション
+- template/structure/beat.yaml:                    シーン要素 ビート
+- template/structure/episode-elements-body.yaml:   エピソード要素 ボディ
+- template/structure/episode-elements-header.yaml: エピソード要素 ヘッダー
+- template/structure/narration.yaml:               シーン要素 ナレーション
+- template/structure/scene.yaml:                   シーン要素 シーン
+- template/structure/sequence.yaml:                シーン要素 シーケンス
 
 ### サイト関連
 
