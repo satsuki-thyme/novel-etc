@@ -57,3 +57,4 @@
 
 - notes/thinking-notes/thi-001.md: 新作を考える（op83）
 - notes/thinking-notes/thi-002.md: 魔法をどうするか
+- notes/thinking-notes/thi-003.md: 物語後半のイベントを増やすには

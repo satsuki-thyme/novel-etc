@@ -2,6 +2,7 @@
 
 ### template
 
+- etc/notes//.md: 思考ノート - 
 - op/notes/thinking-notes/thi-00.md:                  思考ノート - 
 - op/01/chapter/lineage-integration/lin-integ-ep0.md: 思考ノート - 
 
@@ -13,7 +14,8 @@
 
 ## published
 
-- etc/thinking-notes/thi-002.md:                         思考ノート - 魔法のキーワードをどうするか（etc）
+- etc/notes/thinking-notes/thi-003.md:                   思考ノート - 物語後半のイベントを増やすには（etc）
+- etc/notes/thinking-notes/thi-002.md:                   思考ノート - 魔法のキーワードをどうするか（etc）
 - op79/thinking-notes/thi-012.md:                        思考ノート - 敵1、敵2の設定（op79）
 - op78/01/chapter/lineage-integration/lin-integ-ep10.md: 思考ノート - 邪神の呪いとは何か・再考（op78）
 - op78/01/chapter/lineage-integration/lin-integ-ep09.md: 思考ノート - ミリアの過去と野営イベント（op78）
@@ -39,4 +41,4 @@
 - op80/thinking-notes/thi-001.md:                        思考ノート - コンセプト決定（op80）
 - op79/thinking-notes/thi-002.md:                        思考ノート - ネイキスの欲求
 - op79/thinking-notes/thi-001.md:                        思考ノート - ネイキス
-- etc/thinking-notes/thi-001.md:                         思考ノート - 新作を考える（op83）
+- etc/notes/thinking-notes/thi-001.md:                         思考ノート - 新作を考える（op83）
