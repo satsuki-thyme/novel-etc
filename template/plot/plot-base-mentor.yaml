@@ -1,0 +1,39 @@
+#                                                       .o8                                                            
+#                                                      "888                                                            
+# ooo. .oo.    .oooo.   ooo. .oo.  .oo.    .ooooo.      888oooo.   .oooo.   ooo. .oo.   ooo. .oo.    .ooooo.  oooo d8b 
+# `888P"Y88b  `P  )88b  `888P"Y88bP"Y88b  d88' `88b     d88' `88b `P  )88b  `888P"Y88b  `888P"Y88b  d88' `88b `888""8P 
+#  888   888   .oP"888   888   888   888  888ooo888     888   888  .oP"888   888   888   888   888  888ooo888  888     
+#  888   888  d8(  888   888   888   888  888    .o     888   888 d8(  888   888   888   888   888  888    .o  888     
+# o888o o888o `Y888""8o o888o o888o o888o `Y8bod8P'     `Y8bod8P' `Y888""8o o888o o888o o888o o888o `Y8bod8P' d888b    
+
+  - dn: # 名前
+    desire:
+      blank # 欲求
+
+    plot requirements:
+      type:
+        導き手 # プロットのタイプ
+
+      contents:
+        target:
+          blank # 対立相手・物事
+
+        how to exploit weaknesses:
+          blank # 弱点を突く方法と戦う方法
+
+        how to exit:
+          blank # 退場する方法
+
+        reason for exit (weaknesses):
+          blank # 退場した理由
+
+        relationship with plot of target:
+          type:
+            blank # 対立相手・物事との関係
+
+          wrong point:
+            blank # 試練を乗り越えられなかった間違ったポイント
+
+    what to do:
+      blank # けっきょく何をするのか
+
