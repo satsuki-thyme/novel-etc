@@ -1,19 +1,19 @@
 
-            - beat:
-              beat configuration:
-                beat literal-meaning: # 言葉上の意味
-                beat expressive-staging: # 表現上の演出
+                - beat:
+                  beat configuration:
+                    beat literal-meaning: # 言葉上の意味
+                    beat expressive-staging: # 表現上の演出
 
-              beat performance:
+                  beat performance:
 
-                - beat action:
-                  - beat dn: 
-                    beat tone: 
-                    beat metaphor: false
-                    beat activity: 
+                    - beat action:
+                      - beat dn: 
+                        beat tone: 
+                        beat metaphor: false
+                        beat activity: 
 
-                - beat reaction:
-                  - beat dn: 
-                    beat tone: 
-                    beat metaphor: false
-                    beat activity: 
+                    - beat reaction:
+                      - beat dn: 
+                        beat tone: 
+                        beat metaphor: false
+                        beat activity: 

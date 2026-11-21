@@ -1,37 +1,41 @@
+    - sequence: 
+      sequence gist:
+        - sequence gist item: 
+        - sequence gist item: 
 
-- sequence: 
-  sequence gist:
-    - sequence gist item: 
-    - sequence gist item: 
+      sequence configuration:
 
-  sequence configuration:
+        sequence climax: 
 
-    sequence climax: 
+        sequence meaning:
+          - sequence meaning item: 
 
-    sequence meaning:
-      - sequence meaning item: 
+        sequence interest:
+          - sequence interest item: 
 
-    sequence interest:
-      - sequence interest item: 
+        sequence desire:
+          - sequence desire dn: 
+            sequence desire desire: 
+            sequence desire conflict:
+              - sequence desire conflict-dn: 
+                sequence desire conflict-desire: 
+            sequence desire risk: 
+            sequence desire results: 
+            sequence desire gap: 
 
-    sequence desire:
-      - sequence desire dn: 
-        sequence desire desire: 
-        sequence desire conflict:
-          - sequence desire conflict-dn: 
-            sequence desire conflict-desire: 
-        sequence desire risk: 
-        sequence desire results: 
-        sequence desire gap: 
+        sequence value-change:
+          - sequence value-change dn: 
+            sequence value-change value: 
+            sequence value-change change: .
+            sequence value-change notes: 
 
-    sequence value-change:
-      - sequence value-change dn: 
-        sequence value-change value: 
-        sequence value-change change: .
-        sequence value-change notes: 
+        sequence unpredictability-of-the-end:
+          - sequence unpredictability-of-the-end item: 
 
-    sequence unpredictability-of-the-end:
-      - sequence unpredictability-of-the-end item: 
+        sequence world-building:
+          - sequence world-building item: 
+          - sequence world-building item: 
+          - sequence world-building item: 
 
-  sequence elements:
+      sequence elements:
 
